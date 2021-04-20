@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="email_field">email</string>
+    <string name="password_field">password</string>
+    <string name="registrati_button">Registrati</string>
+    <string name="login_button">Login</string>
+    <string name="recupera_password_button">Recupera Password</string>
+    <string name="insert_email">insert email</string>
+    <string name="insert_password">insert password</string>
+    <string name="confirm_password">confirm password</string>
+</resources>
